@@ -1,3 +1,0 @@
-Shapely == 1.8.5.post1
-json == 2.0.9
-opencv-python = 4.6.0
