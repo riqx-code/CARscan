@@ -33,14 +33,17 @@ DEMO FILE [DEMO_final link](https://colab.research.google.com/drive/1grtvdLpo971
 
 ## RESULTS
 
-TASK-1 : [output file](https://drive.google.com/file/d/1-B3OCSSmByqWOMbvCAczJ1c7Iem9ZIxq/view?usp=sharing)
+TASK-1 :
+
+[output file](https://drive.google.com/file/d/1-B3OCSSmByqWOMbvCAczJ1c7Iem9ZIxq/view?usp=sharing)
 
 TASK-2 :
-        [model](https://drive.google.com/file/d/1-AP4cMctAZ7hSv63sDMcNPo_O1KC4jdP/view?usp=sharing)
-        
-        [weights](https://drive.google.com/file/d/1-D5NVduYDYEqNDJh379W4gJlZCuXpNoR/view?usp=sharing)
-        
-        [architecture])(https://drive.google.com/file/d/1-Ge2qtLe31kttiEm5B16RvkpqC4of_M2/view?usp=sharing)
+
+[model](https://drive.google.com/file/d/1-AP4cMctAZ7hSv63sDMcNPo_O1KC4jdP/view?usp=sharing)
+
+[weights](https://drive.google.com/file/d/1-D5NVduYDYEqNDJh379W4gJlZCuXpNoR/view?usp=sharing)
+
+[architecture](https://drive.google.com/file/d/1-Ge2qtLe31kttiEm5B16RvkpqC4of_M2/view?usp=sharing)
 
 
 ## Author
