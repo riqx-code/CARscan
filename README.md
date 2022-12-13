@@ -30,6 +30,19 @@ Task_1 [demo_1 link](https://colab.research.google.com/drive/1pczamTh2k104ts8guH
 Task_2_1 [demo_2 link](https://drive.google.com/file/d/13Fnu_tRja5AyhoBeK_GSoK5pJdhQ_8Bh/view?usp=sharing)
 
 DEMO FILE [DEMO_final link](https://colab.research.google.com/drive/1grtvdLpo971o1tcJ5k0FdmjB21yr0h-9?usp=sharing)
+
+## RESULTS
+
+TASK-1 : [output file](https://drive.google.com/file/d/1-B3OCSSmByqWOMbvCAczJ1c7Iem9ZIxq/view?usp=sharing)
+
+TASK-2 :
+        [model](https://drive.google.com/file/d/1-AP4cMctAZ7hSv63sDMcNPo_O1KC4jdP/view?usp=sharing)
+        
+        [weights](https://drive.google.com/file/d/1-D5NVduYDYEqNDJh379W4gJlZCuXpNoR/view?usp=sharing)
+        
+        [architecture])(https://drive.google.com/file/d/1-Ge2qtLe31kttiEm5B16RvkpqC4of_M2/view?usp=sharing)
+
+
 ## Author
 
 - [@riqx](https://github.com/riqx-code)
