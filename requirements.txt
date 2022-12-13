@@ -1,6 +1,6 @@
 Shapely == 1.8.5.post1
 jsonschema
 opencv-python
-tensorflow == 2.9.2
-numpy == 1.21.6
-matplotlib == 3.2.2
+tensorflow 
+numpy
+matplotlib
