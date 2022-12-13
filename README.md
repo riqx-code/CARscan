@@ -26,7 +26,9 @@ Model , Weights and Architecture Drive links are mentioned in **task_2_1.ipynb**
 ## Demo
 
 Task_1 [demo_1 link](https://colab.research.google.com/drive/1pczamTh2k104ts8guHHyhmb2x_yon_03?usp=sharing) 
+
 Task_2_1 [demo_2 link](https://drive.google.com/file/d/13Fnu_tRja5AyhoBeK_GSoK5pJdhQ_8Bh/view?usp=sharing)
+
 DEMO FILE [DEMO_final link](https://colab.research.google.com/drive/1grtvdLpo971o1tcJ5k0FdmjB21yr0h-9?usp=sharing)
 ## Author
 
