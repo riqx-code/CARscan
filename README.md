@@ -3,7 +3,9 @@
 This is Nagisetti Rithihas , I have done Task-1 & Task-2.1.I have uploaded then in this repository.
  
 
-# Task-1 : Task 1 - Damage Identification
+# Task-1 : Damage Identification
+
+**TASK_one** folder contains **json file**,**images** & **CODE** and **results**
 
 I have uplaoded both .py main code , notebook demo.
 
