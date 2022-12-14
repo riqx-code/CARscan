@@ -39,11 +39,11 @@ TASK-1 :
 
 TASK-2 :
 
-[model](https://drive.google.com/file/d/1-AP4cMctAZ7hSv63sDMcNPo_O1KC4jdP/view?usp=sharing)
+[model](https://drive.google.com/file/d/1dadJUOWp1UTxTDMtzN9oUOTZecB8NrU9/view?usp=sharing)
 
-[weights](https://drive.google.com/file/d/1-D5NVduYDYEqNDJh379W4gJlZCuXpNoR/view?usp=sharing)
+[weights](https://drive.google.com/file/d/1--PZRxQ5M1-cNWIuZI8UWSbPxC7vtknZ/view?usp=sharing)
 
-[architecture](https://drive.google.com/file/d/1-Ge2qtLe31kttiEm5B16RvkpqC4of_M2/view?usp=sharing)
+[architecture](https://drive.google.com/file/d/1--c_PtI_6iUX4IaA1G_9t8_WBHuhv0Fm/view?usp=sharing)
 
 
 ## Author
